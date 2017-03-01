@@ -1,6 +1,10 @@
 {
     "name": "plasmaconduit/either",
-    "version": "0.2.2",
+    "version": "0.2.3",
+    "repositories": [
+        { "type" : "vcs", "url": "https://github.com/mareg/php-option" },
+        { "type" : "vcs", "url": "https://github.com/mareg/php-map" }
+    ],
     "require": {
         "plasmaconduit/option": "0.2.*",
         "plasmaconduit/map": "0.1.*"
