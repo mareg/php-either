@@ -1,6 +1,4 @@
 bin
 vendor
-report
-build
-composer.phar
-.idea
+composer.lock
+
